@@ -1,0 +1,8 @@
+<div>
+  Familly Tree
+  <div class="generation">
+    <div *ngFor="let person of parent">
+      <app-generation [parent]="person" class="person"></app-generation>
+    </div>
+  </div>
+</div>

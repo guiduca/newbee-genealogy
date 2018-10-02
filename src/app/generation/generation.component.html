@@ -1,0 +1,6 @@
+{{parent.firstname}}
+{{child}}
+<div *ngFor="let person of child">
+  {{child}}
+  <app-generation [parent]="person" class="person"></app-generation>
+</div>

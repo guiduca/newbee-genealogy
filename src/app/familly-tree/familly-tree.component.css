@@ -1,0 +1,10 @@
+.generation{
+  display: flex;
+  flex-direction: row;
+}
+
+.person{
+  border: 1px solid gray;
+  width: 50px;
+  background-color: dimgrey;
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "firstname": "Rickard",
+    "lastname": "Stark",
+    "dateofbirth": 230,
+    "dateofdeath": 282
+  },
+  {
+    "id": 2,
+    "firstname": "Lyarra",
+    "lastname": "Stark"
+  },
+  {
+    "id": 3,
+    "firstname": "Brandon",
+    "lastname": "Stark",
+    "father": 1,
+    "mother": 2,
+    "dateofbirth": 262,
+    "dateofdeath": 282
+  },
+  {
+    "id": 4,
+    "firstname": "Eddard",
+    "lastname": "Stark",
+    "father": 1,
+    "mother": 2,
+    "dateofbirth": 263,
+    "dateofdeath": 299
+  },
+  {
+    "id": 5,
+    "firstname": "Lyanna",
+    "lastname": "Stark",
+    "father": 1,
+    "mother": 2,
+    "dateofbirth": 266,
+    "dateofdeath": 283
+  },
+  {
+    "id": 6,
+    "firstname": "Benjen",
+    "lastname": "Stark",
+    "father": 1,
+    "mother": 2,
+    "dateofbirth": 267
+  },
+  {
+    "id": 7,
+    "firstname": "Katelyn",
+    "lastname": "Tully",
+    "dateofbirth": 264,
+    "dateofdeath": 299
+  },
+  {
+    "id": 8,
+    "firstname": "Rob",
+    "lastname": "Stark",
+    "father": 4,
+    "mother": 7,
+    "dateofbirth": 283,
+    "dateofdeath": 299
+  },
+  {
+    "id": 9,
+    "firstname": "Sansa",
+    "lastname": "Stark",
+    "father": 4,
+    "mother": 7,
+    "dateofbirth": 286
+  },
+  {
+    "id": 10,
+    "firstname": "Arya",
+    "lastname": "Stark",
+    "father": 4,
+    "mother": 7,
+    "dateofbirth": 289
+  },
+  {
+    "id": 11,
+    "firstname": "Bran",
+    "lastname": "Stark",
+    "father": 4,
+    "mother": 7,
+    "dateofbirth": 290
+  },
+  {
+    "id": 12,
+    "firstname": "Rickon",
+    "lastname": "Stark",
+    "father": 4,
+    "mother": 7,
+    "dateofbirth": 295,
+    "dateofdeath": 290
+  },
+  {
+    "id": 13,
+    "firstname": "Rhaegar",
+    "lastname": "Targaryen",
+    "father": 15,
+    "mother": 17,
+    "dateofbirth": 259,
+    "dateofdeath": 283
+  },
+  {
+    "id": 14,
+    "firstname": "Jon",
+    "lastname": "Snow",
+    "father": 13,
+    "mother": 5,
+    "dateofbirth": 283
+  },
+  {
+    "id": 15,
+    "firstname": "Aerys",
+    "lastname": "Targaryen",
+    "dateofbirth": 244,
+    "dateofdeath": 283
+  },
+  {
+    "id": 16,
+    "firstname": "Daenerys",
+    "lastname": "Targaryen",
+    "father": 15,
+    "mother": 17,
+    "dateofbirth": 284
+  },
+  {
+    "id": 17,
+    "firstname": "Rhaella",
+    "lastname": "Targaryen",
+    "dateofbirth": 254,
+    "dateofdeath": 284
+  },
+  {
+    "id": 18,
+    "firstname": "Viserys",
+    "lastname": "Targaryen",
+    "father":15,
+    "mother":17,
+    "dateofbirth": 276,
+    "dateofdeath": 298
+  }
+]
